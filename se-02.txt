@@ -1,0 +1,19 @@
+Nama: Fuad Zaidan Najib
+https://github.com/fuadzn
+Algoritma: Makan telur rebus,
+           telurnya ada di dapur dan masih mentah,
+           saya ada dikamar.
+1. Mulai
+2. Saya menuju ke dapur
+3. Mengambil telur
+4. Mengambil panci
+5. Isi air dalam panci
+6. Masukan telur dalam panci
+7. Nyalakan kompor
+8. Setelah matang matikan kompor
+9. Buang air dalam panci
+10. Ambil telur
+11. Kupas kulit telur
+12. Makan telur rebus tersebut
+13. Selesai
+
